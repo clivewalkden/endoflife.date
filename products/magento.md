@@ -34,13 +34,13 @@ auto:
 # PHP requirements on https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html
 releases:
   - releaseCycle: "2.4.9"
-    releaseDate: 2025-05-07
+    releaseDate: 2026-05-12
     eoas: false
     eol: false
     eoes: false # not yet on https://experienceleague.adobe.com/docs/commerce-operations/release/planning/lifecycle-policy.html
     supportedPhpVersions: "8.5"
     latest: "2.4.9"
-    latestReleaseDate: 2026-05-07
+    latestReleaseDate: 2026-05-12
 
   - releaseCycle: "2.4.8"
     releaseDate: 2025-04-03
@@ -49,7 +49,7 @@ releases:
     eoes: false # not yet on https://experienceleague.adobe.com/docs/commerce-operations/release/planning/lifecycle-policy.html
     supportedPhpVersions: "8.3, 8.4"
     latest: "2.4.8"
-    latestReleaseDate: 2025-04-03
+    latestReleaseDate: 2026-05-12
 
   - releaseCycle: "2.4.7"
     releaseDate: 2024-04-04
@@ -58,7 +58,7 @@ releases:
     eoes: 2027-04-19
     supportedPhpVersions: "8.2, 8.3"
     latest: "2.4.7"
-    latestReleaseDate: 2024-04-04
+    latestReleaseDate: 2026-05-12
 
   - releaseCycle: "2.4.6"
     releaseDate: 2023-02-28
@@ -67,7 +67,7 @@ releases:
     eoes: 2026-08-11
     supportedPhpVersions: "8.1, 8.2"
     latest: "2.4.6"
-    latestReleaseDate: 2023-02-28
+    latestReleaseDate: 2026-05-12
 
   - releaseCycle: "2.4.5"
     releaseDate: 2022-08-01
